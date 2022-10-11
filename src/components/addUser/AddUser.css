@@ -1,0 +1,15 @@
+.AddUser{
+    background-color: lightgray;
+}
+
+.addUser__img{
+    /* padding: 6px; */
+    width: 150px;
+    height: 150px;
+}
+
+.addUser__wrapper{
+    display: flex;
+    justify-content: flex-start;
+    gap: 45px;
+}
